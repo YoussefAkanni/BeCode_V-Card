@@ -1,4 +1,4 @@
-/* BODY */
+/* BODY
 body {
     font-family: 'Manrope', sans-serif;
     background:#C4C4C4;
@@ -13,7 +13,7 @@ body {
     gap: 0px 0px; 
   }
 
-/* nav */
+/* nav 
 ul {
     grid-area: 1/2/1/2;
     margin: 10px 10px;
@@ -44,8 +44,7 @@ li a {
 
 }
 
-
-/* img */
+/* img *
 img {
     margin: 10PX 10px;
     width: 100px;
@@ -54,7 +53,7 @@ img {
     justify-self: flex-start;
 }
 
-/* section */
+/* section *
 
 article.description {
     grid-area: 2/1/3/2;
@@ -89,4 +88,4 @@ section p {
 }
 
 
-
+ */
